@@ -3,7 +3,7 @@
 
 
 
-check the output of the code here -------:
+check the site here -------:
 
 
 https://aryan2909.github.io/bitly-cloned/
