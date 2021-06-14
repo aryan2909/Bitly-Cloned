@@ -1,5 +1,5 @@
 # bitly-cloned
-!!!!! THIS IS THE HALF OF THE FIRST PAGE OF BITLY !!!!!
+!!!!! THIS IS THE FIRST PAGE OF BITLY !!!!!
 
 
 
