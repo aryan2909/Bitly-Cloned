@@ -156,3 +156,70 @@ input[type=text] {
 .ff:hover{
     color: #131b46;
 }
+.most{
+    position: relative; left:300px; top: -600px;
+    font-size: 35px;
+
+}
+hr {
+    width: 80%;margin-left: auto;margin-right: auto; position: relative; top: -650px;
+    background-color:#666
+}
+.img4{
+    position: relative; left:150px; top: -550px;
+}
+.meh1{
+    position: relative; left:280px; top: 50px;
+    font-size: 38px
+
+}
+.butt{
+    background-color: #2A5BD7;
+    border: 10px;
+    color: white;
+    padding: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex ;
+    font-size: 18px;
+    margin: 3px 1px;
+    position: relative; left:390px; top: 60px;
+    border-radius: 4px;
+
+}
+
+
+.ul1{
+    list-style-type: none;
+    position: relative; top: -370px; left: 200px;
+}
+.ul2{
+    list-style-type: none;
+    position: relative; top: -95px; left: 200px;
+}
+.ul4{
+    list-style-type: none;
+    position: relative; top: -310px; left: 430px;
+}
+.ul6{
+    list-style-type: none;
+    position: relative; top: -455px; left: 630px;
+}
+.ul3{
+    list-style-type: none;
+    position: relative; top: -75px; left: 200px;
+}
+.ul5{
+    list-style-type: none;
+    position: relative; top: -290px; left: 430px;
+}
+li{
+    color: #2b2e30;
+}
+ul{
+    color: #242527;
+}
